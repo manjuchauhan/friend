@@ -1,4 +1,4 @@
 friend
 ======
 
-my first repo a git hub
+my first repo a git hub.i am practisin on git shell
